@@ -25,9 +25,8 @@ setup(name=PKG_NAME,
                        "developers and analysts to quickly transform data by specifying their requirements in a "
                        "simple YAML file.",
       classifiers=[
-          'License :: Apache License',
           'Operating System :: OS Independent',
-          'Programming Language :: Python :: 3.7'
+          'Programming Language :: Python :: 3.9'
       ],
       license='License :: Apache License',
       maintainer='Swarna Dhakad, Piyush Ranjan, Jatin Varlyani, Pooja Katariya',
